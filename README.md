@@ -9,7 +9,7 @@ Data Analytics Portfoio
 - Bot takes the job title and the number of pages required to be scraped, as user inputs
 - Collects data and publishes it into a .CSV file
 
-# Project 2: Mushroom Classifier Web App using Python and Streamlit
+# [Project 2: Mushroom Classifier Web App using Python and Streamlit](https://github.com/rohan-benjamin/Mushroom-Classifier-Web-App)
 
 - Created a dynamic web app to classify mushrooms as edible or poisonous
 - Used Python to train 3 classifier models over the data - Support Vector Machine, Random Forest Classifier and Logistic Regression
