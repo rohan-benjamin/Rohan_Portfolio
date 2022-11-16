@@ -1,5 +1,5 @@
 # Rohan_Portfolio
-Data Analytics Portfoio
+Data Analytics Portfolio
 
 
 # [Project 1: Glassdoor scraper using Python and Selenium](https://github.com/rohan-benjamin/Glassdoor-Scraper-Final)
