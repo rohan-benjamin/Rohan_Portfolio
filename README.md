@@ -7,7 +7,7 @@ Data Analytics Portfoio
 - Created a bot to scrape job details from glassdoor.com
 - Used Python and the Selenium package and webdriver to automate Google Chrome to scrape data
 - Bot takes the job title and the number of pages required to be scraped, as user inputs
-- Collects data and publishes it into a .CSV file
+- Collects data and publishes it to a .CSV file
 
 # [Project 2: Mushroom Classifier Web App using Python and Streamlit](https://github.com/rohan-benjamin/Mushroom-Classifier-Web-App)
 
