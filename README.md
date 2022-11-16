@@ -9,6 +9,8 @@ Data Analytics Portfolio
 - Bot takes the job title and the number of pages required to be scraped, as user inputs
 - Collects data and publishes it to a .CSV file
 
+![](https://github.com/rohan-benjamin/Rohan_Portfolio/blob/main/images/glassdoor%20scraper.png)
+
 # [Project 2: Mushroom Classifier Web App using Python and Streamlit](https://github.com/rohan-benjamin/Mushroom-Classifier-Web-App)
 
 - Created a dynamic web app to classify mushrooms as edible or poisonous
