@@ -16,7 +16,7 @@ Data Analytics Portfoio
 - Used Streamlit to create the UI for the app.
 - Users can choose which models to use for the classification and also set the hyperparameters
 
-# Project 3: A/B Testing with Cookie Cats
+# [Project 3: A/B Testing with Cookie Cats](https://github.com/rohan-benjamin/AB-Testing-with-Cookie-Cats)
 
 - Cookie Cats is a hugely popular mobile puzzle game developed by Tactile Entertainment. It's a classic "connect three"-style puzzle game where the player must connect    tiles of the same color to clear the board and win the level.
 - As players progress through the levels of the game, they will occasionally encounter gates that force them to wait a non-trivial amount of time or make an in-app purchase to progress. In addition to driving in-app purchases, these gates serve the important purpose of giving players an enforced break from playing the game, hopefully resulting in that the player's enjoyment of the game being increased and prolonged
