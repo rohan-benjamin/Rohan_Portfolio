@@ -2,7 +2,7 @@
 Data Analytics Portfoio
 
 
-# Project 1: Glassdoor scraper using Python and Selenium
+# [Project 1: Glassdoor scraper using Python and Selenium](https://github.com/rohan-benjamin/Glassdoor-Scraper-Final)
 
 - Created a bot to scrape job details from glassdoor.com
 - Used Python and the Selenium package and webdriver to automate Google Chrome to scrape data
