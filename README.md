@@ -9,7 +9,7 @@ Data Analytics Portfolio
 - Bot takes the job title and the number of pages required to be scraped, as user inputs
 - Collects data and publishes it to a .CSV file
 
-![](/images/glassdoor%20scraper.png)
+![](/images/glassdoor.png)
 
 # [Project 2: Mushroom Classifier Web App using Python and Streamlit](https://github.com/rohan-benjamin/Mushroom-Classifier-Web-App)
 
@@ -27,4 +27,4 @@ Data Analytics Portfolio
 - During the analysis I found strong evidence that the 7-day retention is higher when the gate is placed earlier, i.e at level 30 than when it is at level 40. The conclusion is: If we want to keep retention high — both 1-day and 7-day retention — we should not move the gate from level 30 to level 40
 -  By forcing players to take a break when they reach a gate, their enjoyment of the game is prolonged. But when the gate is moved to level 40, fewer players make it far enough, and they are more likely to quit the game because they simply got bored of it.
 
-![](/images/Cookie%20Cats.png)
+![](/images/cookiecats.png)
