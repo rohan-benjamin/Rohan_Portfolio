@@ -28,3 +28,8 @@ Data Analytics Portfolio
 -  By forcing players to take a break when they reach a gate, their enjoyment of the game is prolonged. But when the gate is moved to level 40, fewer players make it far enough, and they are more likely to quit the game because they simply got bored of it.
 
 ![](/images/cookiecats.png)
+
+
+# [Project 4: Covid Tweet Sentiment Analysis](https://github.com/rohan-benjamin/AB-Testing-with-Cookie-Cats)
+
+- Sentiment Analysis, also known as opinion mining, is an approach of Natural Langauge Processing (NLP) that is used to identify the emotional tone behind a body of text. For this exercise, we will use the popular NLP package called NLTK. The dataset used here contains information about Covid related tweets such as username, user location, post date and the body of the Tweet itself. I have used python and NLTK to determine the sentiment behind these tweets and how they have evolved over time.
